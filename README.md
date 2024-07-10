@@ -1,2 +1,12 @@
-# Credit_Card_Financial_Dashboard
-Credit Card Transaction and Customer Dashboard using Power BI
+Power BI Dashboard  
+
+Project Objective:  
+
+Dataset: Financial Dataset  
+
+Steps:  
+
+Insights:  
+
+Action Items:
+
