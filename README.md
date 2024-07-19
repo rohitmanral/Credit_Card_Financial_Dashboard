@@ -1,3 +1,12 @@
+
+## Technology and Tools
+* PostgreSQL (Pgadmin)
+* Power BI
+
+
+
+
+
 Power BI Dashboard  
 
 Project Objective:  
